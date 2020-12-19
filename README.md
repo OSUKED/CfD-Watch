@@ -2,4 +2,4 @@
 
 This repository includes code for retrieving the latest data on UK CfD strike prices
 
-Last updated: 2020-12-18 00:20
+Last updated: 2020-12-19 00:20
